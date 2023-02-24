@@ -1,6 +1,6 @@
-# Radio-signal-server
+# Radio-signal-server ⚡️
 
-## How to run?
+## How to run? 📦
 - Build the docker
 ```
 docker build -t img .
@@ -10,5 +10,5 @@ docker build -t img .
 docker run -it img
 ```
 
-## Output
+## Output 🖼️
 It will print a randomized radio object as well as starting the Django project.
